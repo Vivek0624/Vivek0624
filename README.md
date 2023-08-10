@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there I'm Vivekanand Gundu  <img width="45px" src="https://avatars.githubusercontent.com/u/62993315?v=4" />
 
-<!--
-**Vivek0624/Vivek0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑🏻‍🎓 Education: BSc. CS from MMCC, Pune
+- 🏢 Work: Jr. Developer @Cloud.in
+- 👨‍💻 Interested in technologies like Cloud Computing, Frontend Development with React JS, and MERN Stack
+- 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
+- ⚡ Hobbies: Web Development, Trekking, Reading Books.
+
+
+
+
