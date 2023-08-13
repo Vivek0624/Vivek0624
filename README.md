@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vivek Gundu  <img width="45px" src="https://avatars.githubusercontent.com/u/62993315?v=4" style="border-radius: 20px;" />
+# Hi 👋, I'm Vivek Gundu  <img width="45px" src="https://avatars.githubusercontent.com/u/62993315?v=4" style="border-radius: 50px;" />
 
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/vivek_gundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek_gundu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivek gundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek gundu" height="30" width="40" /></a>
+[email]: <mailto: vivek.gundu29@gmail.com>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
