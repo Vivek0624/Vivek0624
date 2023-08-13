@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vivek Gundu  <img width="45px" src="https://avatars.githubusercontent.com/u/62993315?v=4" style="border-radius: 50px;" />
+# Hi 👋, I'm Vivek Gundu  
 
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
