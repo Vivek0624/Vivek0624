@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vivek Gundu  <img id="preview" src="https://komarev.com/ghpvc/?username=Shubhamraut01&color=grey">
+# Hi 👋, I'm Vivek Gundu  <img id="preview" src="https://komarev.com/ghpvc/?username=Vivek0624&color=grey">
 
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
