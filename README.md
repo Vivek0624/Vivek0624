@@ -4,7 +4,7 @@
 
 - 🧑🏻‍🎓 Education: BSc. CS from MMCC, Pune
 - 🏢 Work: Jr. Developer @Cloud.in
-- 👨‍💻 Interested in technologies like Cloud Computing, Frontend Development with React JS, and MERN Stack
+- 👨‍💻 Interested in technologies like Cloud Computing, Full Stack Development with Next JS, Java and MERN Stack
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 - ⚡ Hobbies: Web Development, Trekking, Reading Books.
 - 💬 Ask me about **JavaScript, React, Cloud Computing**
