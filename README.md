@@ -12,7 +12,7 @@
 - ⚡ Fun fact **Outside of work, I enjoy immersing myself in personal development books. One of my favorites is "Attitude is Everything" by Jeff Keller. Let's connect and explore new opportunities in the world of web development! Feel free to reach out. 🌐✉️**
 
 
-<img src="https://github.com/Vivek0624/Vivek0624/blob/main/assets/github-snake-dark.svg" />
+<img src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
