@@ -3,7 +3,7 @@
 <img style="border-radius: 20px;" align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🧑🏻‍🎓 Education: BSc. CS from MMCC, Pune
-- 🏢 Work: Jr. Developer @Cloud.in
+- 🏢 Work: Software Developer @Cloud.in
 - 👨‍💻 Interested in technologies like Cloud Computing, Full Stack Development with Next JS, Java and MERN Stack
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 - ⚡ Hobbies: Web Development, Trekking, Reading Books.
