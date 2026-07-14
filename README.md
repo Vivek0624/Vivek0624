@@ -1,121 +1,96 @@
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=00CED1&size=40&height=200&width=800&lines=Hey,+I'm+Vivek+Gundu+%3C3;Software+Developer+%40+Cloud.in;Full+Stack+%26+Cloud+Enthusiast;Welcome+to+my+profile!">
-</p>
+<!-- ===== HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vivek%20Gundu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%40%20Cloud.in%20%7C%20Full-Stack%20%26%20Cloud&descSize=18&descAlignY=60&descAlign=50" />
 
-<p align="left">
-  <img id="preview" src="https://komarev.com/ghpvc/?username=Vivek0624&color=grey">
-</p>
+<!-- ===== INTRO ===== -->
+<div align="center">
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+Building full-stack, cloud-native products with **Next.js**, **Java**, the **MERN Stack** & **AWS** — and always learning along the way.
 
-## 👋 About Me
+<a href="https://www.linkedin.com/in/vivek-gundu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/vivek_gundu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="mailto:vivek.gundu29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Vivek0624&style=flat-square&color=2c5364&label=Profile+Views" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</div>
 
-I'm **Vivek Gundu**, a Software Developer at **Cloud.in**, Pune.
+<br>
 
-- 🎓 **Education** — BSc. Computer Science, MMCC (Pune)
-- 💼 **Work** — Building full-stack, cloud-native applications
-- 👨‍💻 **Interested in** — Cloud Computing, Full Stack Development with **Next.js**, **Java** & the **MERN Stack**
-- 💬 **Ask me about** — JavaScript, React, Cloud Computing
-- 💪 Motivated to learn, grow, and inspire as many people as possible along the way
-- 🌲 **Hobbies** — Web Development, Trekking, Reading Books
-- ⚡ **Fun fact** — Outside of work I love personal-development books. A favorite is *"Attitude is Everything"* by Jeff Keller. Let's connect and explore new opportunities in web development! 🌐
+<!-- ===== ABOUT ===== -->
+## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 🚀 What I'm Building & Exploring
-
-```text
-🌐 Full-Stack Web Applications (Next.js / MERN)
-☁️ Cloud-Native Apps & AWS Deployments
-⚙️ Scalable Backend Systems & REST APIs
-🐳 Containerized Workflows with Docker
-🚀 Real-World SaaS-style Products
-📚 Continuous Learning & Personal Growth
+```yaml
+name:        Vivek Gundu
+role:        Software Developer @ Cloud.in
+location:    Pune, India
+education:   BSc. Computer Science — MMCC, Pune
+focus:       Full-Stack Development · Cloud Computing
+ask_me_about: [ JavaScript, React, Cloud Computing ]
+currently:   Building scalable web apps on the cloud
+mindset:     Learn · Grow · Inspire
 ```
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+- 💼 Full-stack, cloud-native application development
+- ⚡ Interested in **Cloud Computing**, **Next.js**, **Java** & the **MERN Stack**
+- 🌲 Off the keyboard: **Trekking**, **Reading**, and side projects
+- 📖 Fun fact: I'm big on personal-development books — a favorite is *"Attitude is Everything"* by Jeff Keller
 
-## 🛠️ Tech Stack & Tools
+<br>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ===== TECH STACK ===== -->
+## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**Languages**
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" height="48" />
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Frontend**
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css&theme=dark" height="48" />
 
-## 📈 GitHub Stats
+**Backend**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivek0624&show_icons=true&locale=en&theme=default_repocard&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek0624&langs_count=10&layout=compact&locale=en&theme=default_repocard" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&theme=dark" height="48" />
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek0624" alt="vivek0624 streak" />
-</p>
+**Databases**
 
-<p align="left">
-  <img src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="48" />
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+**Cloud & DevOps**
 
-## 🌐 Connect With Me
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,postman&theme=dark" height="48" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vivek-gundu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vivek%20Gundu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/vivek_gundu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-vivek__gundu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:vivek.gundu29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-vivek.gundu29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <i>Building full-stack, cloud-native products — and always learning along the way.</i>
-</p>
+<br>
+
+<!-- ===== GITHUB STATS ===== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vivek0624&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek0624&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+
+<br><br>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek0624&hide_border=true&theme=tokyonight" />
+
+<br><br>
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=vivek0624&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+<br>
+
+<!-- ===== SNAKE ===== -->
+<div align="center">
+  <img src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" width="90%" />
+</div>
+
+<br>
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" />
