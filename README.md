@@ -31,40 +31,49 @@ Building full-stack, cloud-native products with <b>Next.js</b>, <b>Java</b>, the
 <!-- ============================================================= -->
 <!--                          ABOUT ME                             -->
 <!-- ============================================================= -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<img align="right" width="38%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloud.gif" />
 
-```yaml
-name:         Vivek Gundu
-role:         Software Developer @ Cloud.in
-location:     Pune, India
-education:    BSc. Computer Science — MMCC, Pune
-focus:        Full-Stack Development · Cloud Computing
-ask_me_about: [JavaScript, React, Cloud Computing]
-currently:    Building scalable web apps on the cloud
-mindset:      Learn · Grow · Inspire
-```
+I'm a **Software Developer at [Cloud.in](https://cloud.in)** based in **Pune, India**, focused on building
+full-stack, **cloud-native** products that scale. My day-to-day lives at the intersection of
+**modern web engineering** and **AWS cloud infrastructure** — from clean, responsive frontends
+to resilient backend systems and automated cloud deployments.
 
-</td>
-<td valign="top" width="45%">
+<br>
 
-- 💼 &nbsp;Full-stack, cloud-native application development
-- ⚡ &nbsp;Into <b>Cloud Computing</b>, <b>Next.js</b>, <b>Java</b> &amp; <b>MERN</b>
-- 🌲 &nbsp;Off the keyboard: <b>Trekking</b> &amp; <b>Reading</b>
-- 🌱 &nbsp;Always leveling up my cloud &amp; system-design skills
-- 📖 &nbsp;Fun fact: I love personal-development books —<br>&nbsp;&nbsp;&nbsp;&nbsp;a favorite is <i>"Attitude is Everything"</i>
+<div>
 
-</td>
-</tr>
-</table>
+`🔭` &nbsp;**Currently** &nbsp;— building scalable web apps on the cloud<br>
+`🌱` &nbsp;**Learning** &nbsp;&nbsp;— advanced cloud architecture &amp; system design<br>
+`💬` &nbsp;**Ask me about** &nbsp;— JavaScript, React, Cloud Computing<br>
+`🎓` &nbsp;**Education** &nbsp;&nbsp;— BSc. Computer Science, MMCC Pune<br>
+`⚡` &nbsp;**Philosophy** &nbsp;— _Learn · Grow · Inspire_<br>
+`🌲` &nbsp;**Off-screen** &nbsp;&nbsp;— Trekking, Reading &amp; side projects<br>
+
+</div>
+
+<br>
+
+> 📖 &nbsp;_Fun fact:_ I'm a big fan of personal-development books — a favorite is **"Attitude is Everything"** by Jeff Keller.
+
+<br clear="right"/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2C9FE0?style=flat-square&amp;labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Focus-Cloud%20Computing-2C9FE0?style=flat-square&amp;labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-203a43?style=flat-square&amp;labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-2c5364?style=flat-square&amp;labelColor=0f2027" />
+
+</div>
 
 <!-- ============================================================= -->
 <!--                     THINGS I'VE BUILT                         -->
 <!-- ============================================================= -->
-## 🚢 Things I've Built
+
+## Things I've Built
 
 <table>
   <tr>
@@ -109,6 +118,7 @@ mindset:      Learn · Grow · Inspire
 <!-- ============================================================= -->
 <!--                         TECH STACK                            -->
 <!-- ============================================================= -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -139,8 +149,44 @@ mindset:      Learn · Grow · Inspire
 </div>
 
 <!-- ============================================================= -->
+<!--                       CERTIFICATIONS                          -->
+<!-- ============================================================= -->
+
+## 📜 Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90" alt="AWS Developer Associate" /><br>
+      <sub><b>Developer<br>Associate</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS Certification" /><br>
+      <sub><b>Cloud<br>Practitioner</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="90" alt="AWS AI Practitioner" /><br>
+      <sub><b>AI<br>Practitioner</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/340x340/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" width="90" alt="AWS ML Engineer Associate (Early Adopter)" /><br>
+      <sub><b>ML Engineer<br>(Early Adopter)</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="90" alt="AWS ML Engineer Associate" /><br>
+      <sub><b>ML Engineer<br>Associate</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- ============================================================= -->
 <!--                        GITHUB STATS                           -->
 <!-- ============================================================= -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -157,6 +203,7 @@ mindset:      Learn · Grow · Inspire
 <!-- ============================================================= -->
 <!--                     CONTRIBUTION METRICS                      -->
 <!-- ============================================================= -->
+
 ## 📈 Contribution Metrics
 
 <div align="center">
@@ -166,32 +213,23 @@ mindset:      Learn · Grow · Inspire
 </div>
 
 <!-- ============================================================= -->
-<!--                          TROPHIES                             -->
-<!-- ============================================================= -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=vivek0624&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" />
-
-</div>
-
-<!-- ============================================================= -->
 <!--                    CONTRIBUTION SNAKE                         -->
 <!-- ============================================================= -->
+
 ## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivek0624/vivek0624/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivek0624/vivek0624/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vivek0624/vivek0624/output/github-contribution-grid-snake.svg" width="95%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="https://portfoliowebsiteimagesall.s3.amazonaws.com/gif-svg-images/github-snake-dark.svg" width="95%" />
   </picture>
 </div>
 
 <!-- ============================================================= -->
 <!--                       DEV QUOTE                               -->
 <!-- ============================================================= -->
+
 ## 💭 Dev Quote
 
 <div align="center">
