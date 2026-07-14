@@ -1,5 +1,5 @@
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Vivek%20Gundu&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Software%20Developer%20%40%20Cloud.in%20%C2%B7%20Full-Stack%20%26%20Cloud-Native&amp;descSize=18&amp;descAlignY=58" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Vivek%20Gundu&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Software%20Developer%20%40%20Cloud.in%20%C2%B7%20Full-Stack%20%26%20Cloud-Native&amp;descSize=18&amp;descAlignY=58" /> -->
 
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
