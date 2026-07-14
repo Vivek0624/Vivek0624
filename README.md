@@ -1,12 +1,12 @@
 <!-- ===================== HEADER BANNER ===================== -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Vivek%20Gundu&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Software%20Developer%20%40%20Cloud.in%20%C2%B7%20Full-Stack%20%26%20Cloud-Native&amp;descSize=18&amp;descAlignY=58" /> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=220&amp;section=header&amp;text=Vivek%20Gundu&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Software%20Developer%20%40%20Cloud.in%20%C2%B7%20Full-Stack%20%26%20Cloud-Native&amp;descSize=18&amp;descAlignY=58" />
 
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
 
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=2C9FE0&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full-Stack+Developer+%F0%9F%92%BB;Cloud-Native+Builder+%E2%98%81%EF%B8%8F;Next.js+%C2%B7+Java+%C2%B7+MERN+%C2%B7+AWS;Learn+%C2%B7+Grow+%C2%B7+Inspire" alt="Typing SVG" />
-</a> -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=2C9FE0&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full-Stack+Developer;Cloud-Native+Builder;Next.js+%7C+Java+%7C+MERN+%7C+AWS;Learn%2C+Grow%2C+Inspire" alt="Typing SVG" />
+</a>
 
 <br>
 
@@ -24,17 +24,18 @@ Building full-stack, cloud-native products with <b>Next.js</b>, <b>Java</b>, the
 <br>
 
 <!-- ===================== ABOUT ===================== -->
+
 ## 🧑‍💻 About Me
 
 ```yaml
-name:         Vivek Gundu
-role:         Software Developer @ Cloud.in
-location:     Pune, India
-education:    BSc. Computer Science — MMCC, Pune
-focus:        Full-Stack Development · Cloud Computing
-ask_me_about: [ JavaScript, React, Cloud Computing ]
-currently:    Building scalable web apps on the cloud
-mindset:      Learn · Grow · Inspire
+name: Vivek Gundu
+role: Software Developer @ Cloud.in
+location: Pune, India
+education: BSc. Computer Science — MMCC, Pune
+focus: Full-Stack Development · Cloud Computing
+ask_me_about: [JavaScript, React, Cloud Computing]
+currently: Building scalable web apps on the cloud
+mindset: Learn · Grow · Inspire
 ```
 
 - 💼 Full-stack, cloud-native application development
@@ -45,6 +46,7 @@ mindset:      Learn · Grow · Inspire
 <br>
 
 <!-- ===================== PROJECTS ===================== -->
+
 ## 🚢 Things I've Built
 
 <table>
@@ -82,6 +84,7 @@ Designed, deployed and maintained production-ready cloud applications distribute
 <br>
 
 <!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -111,6 +114,7 @@ Designed, deployed and maintained production-ready cloud applications distribute
 <br>
 
 <!-- ===================== GITHUB STATS ===================== -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -131,6 +135,7 @@ Designed, deployed and maintained production-ready cloud applications distribute
 <br>
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
 ## 🐍 Contribution Graph
 
 <div align="center">
