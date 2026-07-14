@@ -4,9 +4,9 @@
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=2C9FE0&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full-Stack+Developer+%F0%9F%92%BB;Cloud-Native+Builder+%E2%98%81%EF%B8%8F;Next.js+%C2%B7+Java+%C2%B7+MERN+%C2%B7+AWS;Learn+%C2%B7+Grow+%C2%B7+Inspire" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br>
 
